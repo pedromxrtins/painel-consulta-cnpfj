@@ -1,1 +1,3 @@
 wsg
+
+missing some nodemodules
